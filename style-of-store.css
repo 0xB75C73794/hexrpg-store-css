@@ -1,0 +1,24 @@
+.shopItems {
+  border: none;
+}
+
+#navUsername {
+  color: #de741a !important;
+  font-family: hopfer_hornbookregular;
+}
+
+a.sideNavMenuLink:hover {
+  color: #ab0f0f;
+}
+
+a.menuToggle {
+  color: #de741a !important;
+}
+
+#sideNavHead {
+  background: transparent;
+}
+
+#sideNavMenu {
+  background: transparent !important;
+}
